@@ -1,0 +1,9 @@
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\LibrarySytem.deps.json
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\LibrarySytem.runtimeconfig.json
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\LibrarySytem.runtimeconfig.dev.json
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\LibrarySytem.dll
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\LibrarySytem.pdb
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\LibrarySytem.AssemblyInfo.cs
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\LibrarySytem.dll
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\LibrarySytem.pdb
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\LibrarySytem.csprojResolveAssemblyReference.cache

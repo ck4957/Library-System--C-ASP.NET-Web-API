@@ -1,0 +1,61 @@
+﻿create table patrons
+(
+	patronid serial not null
+		constraint "PK_Patrons"
+			primary key,
+	patname text
+)
+;
+
+create table librarys
+(
+	libraryid serial not null
+		constraint "PK_Librarys"
+			primary key,
+	libname text
+)
+;
+
+create table authors
+(
+	authorid serial not null
+		constraint "PK_Authors"
+			primary key,
+	fname text,
+	lname text not null
+)
+;
+
+create table bookauthor
+(
+	bookid integer not null
+		constraint fk_bookauthor_books_bookid
+			references books
+				on delete cascade,
+	authorid integer not null
+		constraint fk_bookauthor_authors_authorid
+			references authors
+				on delete cascade,
+	constraint "PK_BookAuthor"
+		primary key (bookid, authorid)
+)
+;
+
+create table books
+(
+	bookid serial not null
+		constraint "PK_Books"
+			primary key,
+	publisheddate timestamp not null,
+	title text,
+	patronid integer
+		constraint fk_books_patrons_patronid
+			references patrons
+				on delete cascade,
+	libraryid integer
+		constraint fk_books_librarys_libraryid
+			references librarys
+				on delete cascade
+)
+;
+

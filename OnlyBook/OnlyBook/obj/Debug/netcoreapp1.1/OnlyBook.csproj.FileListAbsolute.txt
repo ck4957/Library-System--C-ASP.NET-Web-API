@@ -1,0 +1,9 @@
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\OnlyBook.deps.json
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\OnlyBook.runtimeconfig.json
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\OnlyBook.runtimeconfig.dev.json
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\OnlyBook.dll
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\OnlyBook.AssemblyInfo.cs
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\bin\Debug\netcoreapp1.1\OnlyBook.pdb
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\OnlyBook.dll
+c:\users\chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\OnlyBook.pdb
+C:\Users\Chirag\documents\visual studio 2017\Projects\OnlyBook\OnlyBook\obj\Debug\netcoreapp1.1\OnlyBook.csprojResolveAssemblyReference.cache
